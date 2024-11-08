@@ -3,11 +3,10 @@
 import { usePathname, useSearchParams } from 'next/navigation';
 
 import {
-  GiMedicalPack,
+  GiOilDrum,
   GiCupcake,
   GiGardeningShears,
   GiHairStrands,
-  GiMedicalPackAlt,
   GiSittingDog,
   GiAutoRepair,
 } from 'react-icons/gi';
@@ -65,9 +64,9 @@ export const categories = [
     description: 'Dental Surgery',
   },
   {
-    label: 'Medical Specialist',
-    icon: GiMedicalPackAlt,
-    description: 'Medical Specialist',
+    label: 'Oil Changes Specialist',
+    icon: GiOilDrum,
+    description: 'Oil Changes Specialist',
   },
   { label: 'Pet Grooming', icon: TbDog, description: 'Pet grooming' },
   { label: 'Pet Sitting', icon: GiSittingDog, description: 'Pet sitting' },

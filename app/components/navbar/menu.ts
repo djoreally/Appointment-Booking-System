@@ -1,7 +1,7 @@
 export const menu = [
   {
-    title: 'Health & Fitness',
-    url: '',
+    title: 'Washing & Detailing',
+    url: 'personaltrainers',
     submenu: [
       {
         title: 'Personal Trainers',
@@ -26,8 +26,8 @@ export const menu = [
     ],
   },
   {
-    title: 'Medical',
-    url: '',
+    title: 'Oil Changes',
+    url: 'personaltrainers',
     submenu: [
       {
         title: 'Gp s',
@@ -42,13 +42,13 @@ export const menu = [
         url: 'dental surgery',
       },
       {
-        title: 'Medical Specialist',
-        url: 'medicalspecialists',
+        title: 'Oil Changes Specialist',
+        url: 'personaltrainers',
       },
     ],
   },
   {
-    title: 'Household',
+    title: 'Brakes',
     url: 'ss',
     submenu: [
       {
@@ -86,8 +86,8 @@ export const menu = [
     ],
   },
   {
-    title: 'Education',
-    url: '',
+    title: 'Light Repairs',
+    url: 'personaltrainers',
     submenu: [
       {
         title: 'General Classes',
@@ -120,8 +120,8 @@ export const menu = [
     ],
   },
   {
-    title: 'Beauty & Spa',
-    url: '',
+    title: 'Tires',
+    url: 'personaltrainers',
     submenu: [
       {
         title: 'Hair Salon',
